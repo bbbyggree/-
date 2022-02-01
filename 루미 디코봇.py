@@ -4,7 +4,7 @@ import asyncio
 from json import loads
 twitch_Client_ID = '4piqyxcimtq152kggv2b9kucazdq6w'
 twitch_Client_secret = 'n8zita45ec6qmaxbdm35xn6l1kjb0y'
-discord_Token = 'OTM3OTg0ODI5MTUxMTQxOTM4.Yfjscg.SnqRWq7BOoDEnKbecdd1hpTWHK8'
+discord_Token = 'OTM3OTg0ODI5MTUxMTQxOTM4.Yfjscg.s_LvfT5a4mv4iMinaCjG6QOhSTo'
 discord_channelID = 937347254837211187
 discord_bot_state = '방송 알리미'
 twitchID = 'sseung_23'
